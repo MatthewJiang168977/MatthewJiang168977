@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Matthew, a passionate developer from Arizona, US. 
+
+The world is a canvas, you are the painter!
+
+If an idea pops into my head, chances are I'll build it and ship it.
+
+### 🛠️ Tech Stack
+**Languages:** Python, C/C++, JavaScript/TypeScript, SQL  
+**Frameworks:** React Native, Node.js, Express, Flask  
+**Tools & Cloud:** AWS (Lambda, RDS), Docker, GitHub, MySQL Workbench  
+**Interests:** Distributed Systems, OS, Databases, Computer Vision
