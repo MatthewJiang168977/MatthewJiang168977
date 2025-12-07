@@ -21,8 +21,14 @@ The world is a canvas, you are the painter!
 
 If an idea pops into my head, chances are I'll build it and ship it.
 
-### 🛠️ Tech Stack
-**Languages:** Python, C/C++, JavaScript/TypeScript, SQL  
-**Frameworks:** React Native, Node.js, Express, Flask  
-**Tools & Cloud:** AWS (Lambda, RDS), Docker, GitHub, MySQL Workbench  
-**Interests:** Distributed Systems, OS, Databases, Computer Vision
+### Tech Stack
+- **Languages:** Python, C/C++, JavaScript/TypeScript, SQL  
+- **Frameworks:** React Native, Node.js, Express, Flask  
+- **Tools & Cloud:** AWS (Lambda, RDS), Docker, GitHub, MySQL Workbench  
+- **Interests:** Distributed Systems, OS, Databases, Computer Vision
+
+### Fun Facts 
+- I recently got a dog, his name is Charlie :)
+- I love Boba Tea
+- Chainsaw Man is my favorite anime
+- **Hobbies**: Keyboard building/modding, gaming, drawing, building things! 
