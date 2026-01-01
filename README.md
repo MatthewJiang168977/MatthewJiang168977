@@ -22,7 +22,7 @@ The world is a canvas, you are the painter!
 If an idea pops into my head, chances are I'll build it and ship it.
 
 ### Tech Stack
-- **Languages:** Python, C/C++, JavaScript/TypeScript, MySQL  
+- **Languages:** ava, Python, C++, JavaScript, TypeScript, SQL, HTML/CSS, Assembly  
 - **Frameworks:** React Native, Node.js, Express, Flask  
 - **Tools & Cloud:** AWS (Lambda, RDS), Docker, GitHub, MySQL Workbench  
 - **Interests:** Distributed Systems, OS, Databases, Computer Vision
