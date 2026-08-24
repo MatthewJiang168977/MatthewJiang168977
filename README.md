@@ -31,7 +31,7 @@ If an idea pops into my head, chances are I'll build it and ship it.
 - Side projects blending systems programming with real-time audio/data processing
 
 ### Fun Facts 
-- I recently got a dog, his name is Charlie :)
+- I recently got a dog; his name is Wang Cai :)
 - I love Boba Tea
 - Chainsaw Man is my favorite anime
 - **Hobbies**: Keyboard building/modding, gaming, drawing, building things! 
