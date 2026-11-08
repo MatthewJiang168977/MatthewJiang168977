@@ -1,4 +1,4 @@
-## Hey there! 👋
+## Hey there! 
 
 <!--
 **MatthewJiang168977/MatthewJiang168977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
